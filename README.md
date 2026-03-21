@@ -41,7 +41,7 @@
 ### <p align="center">you can reach me on</p>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/gustavo-gualda-95a8112a2](https://www.linkedin.com/in/lucasrodriguesmarins/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasrodriguesmarins/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lucasmarins2112@gmail.com" target="_blank">
